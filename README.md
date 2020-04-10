@@ -7,9 +7,15 @@ api
 
 ### 开发者
 
--   何渊([@suprehe](https://github.com/coderheyuan))
+-   何渊([@suprehe](https://github.com/phperhy))
 -   汝涛([@tao](https://github.com/liurutao))
 -   建陆([@lu](https://github.com/liurutao))
+
+#### 参考以下博客社区
+Laravel社区 学院君
+-   学院君([@xueyuanjun](https://xueyuanjun.com/post/9794.html)
+-   简书-我爱余倩([@woaiyuqian](https://www.jianshu.com/p/3fb827db704b)
+-   CSDN-weixin_43870916([@weixin_43870916](https://me.csdn.net/weixin_43870916)
 
 ## 零、安装lumen
 composer create-project --prefer-dist laravel/lumen blog
