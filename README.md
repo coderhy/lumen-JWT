@@ -9,7 +9,7 @@ api
 
 -   何渊([@phperhy](https://github.com/phperhy))
 -   汝涛([@tao](https://github.com/liurutao))
--   建陆([@lu](https://github.com/liurutao))
+-   建陆([@lu](https://github.com/lu51561314))
 
 #### 整合以下博客社区
 Laravel社区 学院君
