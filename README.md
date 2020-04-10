@@ -7,7 +7,7 @@ api
 
 ### 开发者
 
--   何渊([@suprehe](https://github.com/phperhy))
+-   何渊([@phperhy](https://github.com/phperhy))
 -   汝涛([@tao](https://github.com/liurutao))
 -   建陆([@lu](https://github.com/liurutao))
 
